@@ -5,7 +5,7 @@ on:
 
 jobs:
     say-hello:
-        runs-on: Ubuntu Latest
+        runs-on: Ubuntu-Latest
 
         steps:
             - name: Print a message
